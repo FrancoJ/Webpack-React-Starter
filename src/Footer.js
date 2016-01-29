@@ -2,7 +2,7 @@ import React from "react";
 
 
 //Header Component </Header>
-let Footer = React.createClass({
+const Footer = React.createClass({
   render: function() {
     return (
      <div className="container-fluid">

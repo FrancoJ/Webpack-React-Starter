@@ -10,7 +10,7 @@ import Footer from './Footer';
 
 
 //App Component Parent of All!
-let App = React.createClass({
+const App = React.createClass({
   
   getInitialState: function() {
     return {
